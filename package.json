@@ -2,7 +2,7 @@
   "name": "date-a-live",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://MauDavid.github.io/Proyect-DAL",
+  "homepage": "http://MauDavid.github.io/ProyectDAL",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "@testing-library/jest-dom": "^5.16.5",
