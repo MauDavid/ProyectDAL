@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Proyect-DAL/static/css/main.982fb7a3.css",
-    "main.js": "/Proyect-DAL/static/js/main.25466acb.js",
-    "static/js/787.ec3c1385.chunk.js": "/Proyect-DAL/static/js/787.ec3c1385.chunk.js",
-    "static/media/Mukuro.webp": "/Proyect-DAL/static/media/Mukuro.98cf7a434b1dd6a1a2d7.webp",
-    "static/media/Natsumi_29.webp": "/Proyect-DAL/static/media/Natsumi_29.f54d0878d0198aa95992.webp",
-    "static/media/Kotori_29.webp": "/Proyect-DAL/static/media/Kotori_29.8bfed0a626f079d0b19c.webp",
-    "static/media/Tohka_29.webp": "/Proyect-DAL/static/media/Tohka_29.9d3fa5f4577463f5fb8d.webp",
-    "static/media/Kurumi_29.webp": "/Proyect-DAL/static/media/Kurumi_29.456b44237a8bdd0b83c2.webp",
-    "static/media/Nia.webp": "/Proyect-DAL/static/media/Nia.6ab2819bbab5397406f7.webp",
-    "static/media/Miku_spirit_ver.webp": "/Proyect-DAL/static/media/Miku_spirit_ver.6e6b7627f856b814aa51.webp",
-    "static/media/Yoshino_29.webp": "/Proyect-DAL/static/media/Yoshino_29.87dc0d6eef4004160dcd.webp",
-    "static/media/Yuzuru_29.webp": "/Proyect-DAL/static/media/Yuzuru_29.928bbca4ebccb32701fc.webp",
-    "static/media/Kaguya_29.webp": "/Proyect-DAL/static/media/Kaguya_29.93208279e6ed70ee0717.webp",
-    "static/media/Tobichi.webp": "/Proyect-DAL/static/media/Tobichi.73f1fd9d68a78ae864d9.webp",
-    "index.html": "/Proyect-DAL/index.html",
-    "main.982fb7a3.css.map": "/Proyect-DAL/static/css/main.982fb7a3.css.map",
-    "main.25466acb.js.map": "/Proyect-DAL/static/js/main.25466acb.js.map",
-    "787.ec3c1385.chunk.js.map": "/Proyect-DAL/static/js/787.ec3c1385.chunk.js.map"
+    "main.css": "/ProyectDAL/static/css/main.982fb7a3.css",
+    "main.js": "/ProyectDAL/static/js/main.9c34ece4.js",
+    "static/js/787.ec3c1385.chunk.js": "/ProyectDAL/static/js/787.ec3c1385.chunk.js",
+    "static/media/Mukuro.webp": "/ProyectDAL/static/media/Mukuro.98cf7a434b1dd6a1a2d7.webp",
+    "static/media/Natsumi_29.webp": "/ProyectDAL/static/media/Natsumi_29.f54d0878d0198aa95992.webp",
+    "static/media/Kotori_29.webp": "/ProyectDAL/static/media/Kotori_29.8bfed0a626f079d0b19c.webp",
+    "static/media/Tohka_29.webp": "/ProyectDAL/static/media/Tohka_29.9d3fa5f4577463f5fb8d.webp",
+    "static/media/Kurumi_29.webp": "/ProyectDAL/static/media/Kurumi_29.456b44237a8bdd0b83c2.webp",
+    "static/media/Nia.webp": "/ProyectDAL/static/media/Nia.6ab2819bbab5397406f7.webp",
+    "static/media/Miku_spirit_ver.webp": "/ProyectDAL/static/media/Miku_spirit_ver.6e6b7627f856b814aa51.webp",
+    "static/media/Yoshino_29.webp": "/ProyectDAL/static/media/Yoshino_29.87dc0d6eef4004160dcd.webp",
+    "static/media/Yuzuru_29.webp": "/ProyectDAL/static/media/Yuzuru_29.928bbca4ebccb32701fc.webp",
+    "static/media/Kaguya_29.webp": "/ProyectDAL/static/media/Kaguya_29.93208279e6ed70ee0717.webp",
+    "static/media/Tobichi.webp": "/ProyectDAL/static/media/Tobichi.73f1fd9d68a78ae864d9.webp",
+    "index.html": "/ProyectDAL/index.html",
+    "main.982fb7a3.css.map": "/ProyectDAL/static/css/main.982fb7a3.css.map",
+    "main.9c34ece4.js.map": "/ProyectDAL/static/js/main.9c34ece4.js.map",
+    "787.ec3c1385.chunk.js.map": "/ProyectDAL/static/js/787.ec3c1385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.982fb7a3.css",
-    "static/js/main.25466acb.js"
+    "static/js/main.9c34ece4.js"
   ]
 }
