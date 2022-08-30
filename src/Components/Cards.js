@@ -4,9 +4,9 @@ import Card from "./Card";
 function Cards() {
   return (
     <div className="container-fluid ">
-      <div className="row d-flex justify-content-start gy-4 pt-4 pb-4">
+      <div className="row d-flex justify-content-evenly gy-4 pt-4 pb-4">
         {DBAngeles.map((card) => (
-          <div className="col" key={card.id}>
+          <div className="col-lg-4 col-md-4 col" key={card.id}>
             <Card
               imageSource={card.image}
               title={card.name}
